@@ -3,8 +3,10 @@
     display: inline-block;
     height: 80%;
     width: 40%;
-    position: relative;
 }
+.rocket { 
+    margin-top: 100spx; 
+  }
 
 #flightStatus {
     color: green;
@@ -28,3 +30,4 @@
 .centered {
     text-align: center;
 }
+
